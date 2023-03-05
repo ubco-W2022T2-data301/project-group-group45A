@@ -24,8 +24,6 @@ My dataset consists of two raw csv files, both of which record bike share usage 
 
 ## Team Members
 
-- Yuxin Hu: I hope to analyze the data set properly this term and improve my skills.
-- Yiran Wang: Through this project, I hope to become a person who is not afraid to work alone and can think independently.
 - Evelyn Pu: I'm Evelyn Pu and currently majoring in computer science, this is my first DATA course and I'm excited to work on this project with all!
 
 ## Images
